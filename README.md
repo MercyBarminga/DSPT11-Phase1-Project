@@ -26,3 +26,10 @@ Data visualization is an integral part of analysis. This helps us to process dat
 
 The bar graph shows the number of aircraft accidents. 2003 is the year with the most accidents and while the least is not very clear, it is plain sight that the number if any of aircraft accidents between 1974-1998 are very few.
 According to the data we have, CESSNA is the leading in terms of accidents. We looked at the top 10 aircraft makes.
+The pivot table is a great tool but it does not immediately give the much needed answers. Lets explore a heatmap.
+#CONCLUSION
+After careful consideration of factors at play, these are the recommendations for acquisition of the fleet;
+- Consider aircraft makes with least number of accidents for instance Boeing, Bell, Robinson. 
+- Landing was one of the most accident prone phases according to the analysis. Hence train pilots extensively in abnormal landing scenarios
+- Take into consideration diversification of the Makes and Models to reduced operations risk and avoid fleet vulnerabilities.
+- Invest in technology for weather monitoring as many accidents occured under VMC which is meant to be good weather therefore implying human error.
