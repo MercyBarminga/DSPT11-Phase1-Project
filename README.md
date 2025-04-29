@@ -10,6 +10,8 @@
 This project explores and analyzes aviation accident data to uncover commmon trends and patterns. This is to provide insights that can support business decisions, such as acquiring a new fleet, improving safety measures, and understanding accident dynamics.
 
 Using Python (Pandas, Matplotlib, Seaborn) for initial data analysis, and Tableau for dashboard creation, I highlight the critical factors influencing aviation accidents over time.
+
+
 **Key Analysis Areas**
 
 
