@@ -17,7 +17,7 @@ Using Python (Pandas, Matplotlib, Seaborn) for initial data analysis, and Tablea
 
 **Accidents by Year**
 
-![Accidents by Year]("images/Bar Graph of year versus number of accidents.png"): Visualized trends in the number of aviation accidents over the years.
+![Accidents by Year](images/Bar-Graph-year-versus-number-of-accidents.png): Visualized trends in the number of aviation accidents over the years.
 
 **Fatal Injuries**
 
@@ -25,7 +25,7 @@ Fatal Injuries: Identified the year with the most and least fatal injuries.
 
 **Make and Model Analysis**
 
-![Make and Model Analysis]("images/Aircraft make versus number of accidents.png"): Highlighted the most common aircraft makes and models involved in accidents.
+![Make and Model Analysis](images/Top-10-Aircraft-Makes-with-most-accidents): Highlighted the most common aircraft makes and models involved in accidents.
 
 Weather Conditions: Determined the most prevalent weather conditions during accidents.
 
@@ -72,9 +72,9 @@ Open the Jupyter Notebook to explore the Python code.
 
 Open the Tableau Aviation Accident Data Analysis.twbx file to view the full interactive dashboard.
 Here I analyzed the 
-![Year versus Event ID]("images/Year versus Event ID.png")
-![Fatalities_Year_Accidents]("images/Fatalities_Year_Accidents.png")
-![Top 10 Aicraft Makes with most accidents]("images/Top 10 Aircraft Makes with most accidents.png")
+![Year versus Event ID](images/Year-versus-Event-ID.png)
+![Fatalities_Year_Accidents](images/Fatalities_Year_Accidents.png)
+![Top 10 Aicraft Makes with most accidents](images/Aircraft-make-versus-number-of-accidents.png)
 !📊 [View the Aviation Dashboard](dashboard.html)
 
  **Recommendations**
