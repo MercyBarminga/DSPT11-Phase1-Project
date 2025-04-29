@@ -1,16 +1,18 @@
 ##AVIATION ACCIDENT DATA ANALYSIS AND VISUALIZATION
-#![Aviation Accident Data Analysis and Visualization](images/Take-Off)
+#![Aviation Accident Data Analysis and Visualization](images/Take-Off.png)
+
 #![Project Overview](images/Business.png)
 This project explores and analyzes aviation accident data to uncover commmon trends and patterns. This is to provide insights that can support business decisions, such as acquiring a new fleet, improving safety measures, and understanding accident dynamics.
 
 Using Python (Pandas, Matplotlib, Seaborn) for initial data analysis, and Tableau for dashboard creation, I highlight the critical factors influencing aviation accidents over time.
 
-#![Key Analysis Areas](images/trend-analytics.png)
-#![Accidents by Year](images/Bar Graph of year versus number of accidents): Visualized trends in the number of aviation accidents over the years.
+![Key Analysis Areas](images/trend-analytics.png)
+
+![Accidents by Year](images/Bar Graph of year versus number of accidents.png): Visualized trends in the number of aviation accidents over the years.
 
 Fatal Injuries: Identified the year with the most and least fatal injuries.
 
-#![Make and Model Analysis](images/Aircraft make versus number of accidents.png): Highlighted the most common aircraft makes and models involved in accidents.
+![Make and Model Analysis](images/Aircraft make versus number of accidents.png): Highlighted the most common aircraft makes and models involved in accidents.
 
 Weather Conditions: Determined the most prevalent weather conditions during accidents.
 
@@ -51,12 +53,12 @@ Edit
 git clone https://github.com/MercyBarminga/DSPT11-Phase1-Project.git
 Open the Jupyter Notebook to explore the Python code.
 
-#Interactive Dashboard
+##Interactive Dashboard
 Open the Tableau Aviation Accident Data Analysis.twbx file to view the full interactive dashboard.
 Here I analyzed the 
-#![Year versus Event ID](images/Year versus Event ID)
-#![Fatalities_Year_Accidents](images/Fatalities_Year_Accidents)
-#![Top 10 Aicraft Makes with most accidents](images/Top 10 Aircraft Makes with most accidents)
+#![Year versus Event ID](images/Year versus Event ID.png)
+#![Fatalities_Year_Accidents](./images/Fatalities_Year_Accidents.png)
+#![Top 10 Aicraft Makes with most accidents](./images/Top 10 Aircraft Makes with most accidents.png)
 #!📊 [View the Aviation Dashboard](dashboard.html)
 
  Recommendations
